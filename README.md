@@ -12,4 +12,8 @@ This project demonstrates how to create a **3D video** using Python and Matplotl
 - Fully Python-based solution
 
 ---
+## GIF Preview
 
+![3D Video](data/3d_vis.gif)
+
+---
